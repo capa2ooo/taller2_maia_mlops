@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-#Este es un cambio en la rama de prueba
+#cambio en la rama de prueba
 
 
 app = dash.Dash(
